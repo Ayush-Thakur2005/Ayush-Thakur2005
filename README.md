@@ -91,12 +91,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Thakur2005&theme=radical)
 
-
----
-
-### 💻 Project Demo
-![Waste Classification Demo](assets/waste-classifier-demo.gif)
-
 ---
 
 ## 💬 **Connect with Me**
