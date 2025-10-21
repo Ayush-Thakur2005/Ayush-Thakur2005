@@ -1,9 +1,3 @@
-<h1 align="center">Welcome to Ayush's GitHub! 🚀</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayush-Thakur2005&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Let's%20code!-Python-blue?style=flat&logo=python"/>
-</p>
-
 # 👋 Hi, I'm Ayush Thakur
 
 ![Profile Banner](https://img.shields.io/badge/Portfolio-AI%20%26%20ML-blueviolet)
