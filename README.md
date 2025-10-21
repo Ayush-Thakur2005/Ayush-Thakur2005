@@ -59,7 +59,6 @@
 
 ## 📊 **GitHub Stats**
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush-Thakur2005&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Thakur2005&layout=compact&theme=radical)
 
 ---
@@ -75,10 +74,11 @@
 
 ---
 
-### 📊 GitHub Stats & Top Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush-Thakur2005&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Thakur2005&layout=compact&theme=radical)
+
+#
 
 ### 🔥 GitHub Streak
 
