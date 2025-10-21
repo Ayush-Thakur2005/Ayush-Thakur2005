@@ -82,6 +82,23 @@
 
 ---
 
+### 📊 GitHub Stats & Top Languages
+
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush-Thakur2005&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Thakur2005&layout=compact&theme=radical)
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Thakur2005&theme=radical)
+
+
+---
+
+### 💻 Project Demo
+![Waste Classification Demo](assets/waste-classifier-demo.gif)
+
+---
+
 ## 💬 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-thakur-2005/)  
