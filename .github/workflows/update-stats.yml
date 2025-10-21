@@ -1,0 +1,20 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs every day at 00:00 UTC
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update stats
+        uses: tibdex/github-profile-summary-action@v0.2.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
